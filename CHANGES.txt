@@ -1,0 +1,15 @@
+0.0.1 - 2024-09-14:
+
+- First version
+
+0.0.2 - 2024-09-14:
+
+- WAV player added
+
+0.1.0 - 2024-09-15:
+
+- Native implementation to record and play WAV files
+
+2024-10-24:
+
+- Project moved to its own repository
